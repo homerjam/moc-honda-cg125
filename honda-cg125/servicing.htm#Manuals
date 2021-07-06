@@ -1,0 +1,1231 @@
+<html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+
+<head>
+<meta http-equiv="Keywords" content="warranty,manual,battery,clutch,throttle,oil,spark,plug,chain,tension,air,filter,idle,front,rear,brake,valve,clearance">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Servicing Honda CG125</title>
+<style>
+<!--
+ p.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0cm; margin-right:0cm; margin-top:0cm}
+-->
+</style>
+
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:Categories msdt:dt="string">Website</mso:Categories>
+<mso:Approval_x0020_Level msdt:dt="string"></mso:Approval_x0020_Level><mso:Assigned_x0020_To msdt:dt="string"></mso:Assigned_x0020_To></mso:CustomDocumentProperties>
+</xml><![endif]-->
+</head>
+
+<body>
+
+<p class="MsoNormal" align="center"><b><font size="4">Honda CG125 Servicing</font></b></p>
+<p class="MsoNormal">&nbsp;<a href="index.htm">Home</a></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The bike has been designed to be very easy to service, 
+there is no need to pay a mechanic.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">If you insist on paying a mechanic, find out what their 
+hourly labour charge is, then insist on watching them work.</p>
+<p class="MsoNormal">This means you will know they have carried out the work, the 
+real time it takes and how to do the work yourself next time.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b>The Owner's Manual tells you to use a torque wrench, 
+there’s no need for one unless your hands are very insensitive.</b></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><span style="color:black">If you bought a 2nd hand bike, 
+the chances are the previous owners have not bothered to service the bike.</span></p>
+<p class="MsoNormal">So I would advise doing everything in this Servicing page 
+as soon as possible.</p>
+<p class="MsoNormal" align="left">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Warranty">Warranty</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center">
+<a href="#How to find your bikes Tool Kit and Owners Manual">How to find your 
+bikes Tool Kit and Owners Manual</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Manuals">Manuals</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Battery">Battery</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Oil">Oil</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Spark plug">Spark plug</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Chain Oiling">Chain Oiling</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Chain Tension">Chain Tension</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Air Filter">Air Filter</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Idle Mixture Screw">Idle Mixture 
+Screw</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Idle speed screw">Idle Speed Screw</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Clutch cable">Clutch cable</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Throttle cable">Throttle cable</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Rear Brake">Rear Brake</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Front Drum Brake">Front Drum Brake</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Front Disc Brake">Front Disc Brake</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Valve clearance">Valve clearance</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Ignition Timing">Ignition Timing</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center">
+<a href="#How to replace the Headlight Bulb">How to replace the Headlight Bulb</a></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Warranty"></a>Warranty</b></p>
+<p class="MsoNormal">In the UK, the shop probably told you, that if a Honda dealer does not 
+service the bike, the Honda 2 year warrantee is invalid,</p>
+<p class="MsoNormal">this is a deliberate lie to increase their profits, since 
+there servicing costs are very expensive for hardly any work.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">If you read the UK warranty book that comes with the bike, it 
+states anyone can service the bike and the warranty stays intact, </p>
+<p class="MsoNormal">the only way to invalidate the warranty is if you do not 
+do the servicing correctly. </p>
+<p class="MsoNormal">For instance if you forget to change the oil at the correct 
+mileage and the bike then develops a fault that is due to the lack of oil 
+change, </p>
+<p class="MsoNormal">you can not claim on the warranty to fix that fault. </p>
+<p class="MsoNormal">But if you have not changed the oil and the petrol tank 
+rusts through (very unlikely), you can make a warranty claim for a tank. </p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">I have confirmed all this with the Honda UK helpline who 
+were emphatic about this. </p>
+<p class="MsoNormal">I also remember the UK government passed a law about this a 
+few years ago, </p>
+<p class="MsoNormal">to stop all motor vehicles begin forced to be serviced at 
+the manufacturers dealers, in order to keep the warranty. </p>
+<p class="MsoNormal">Of course a dealer has no legal obligation to carry out 
+warranty work unless you bought it from them.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b>
+<a name="How to find your bikes Tool Kit and Owners Manual"></a>How to find your 
+bikes Tool Kit and Owners Manual</b></p>
+<p class="MsoNormal">All motorbikes when new come with an Owner's Manual and a 
+basic tool kit for the bike.</p>
+<p class="MsoNormal">These are normally stored in special compartments in the 
+bike.</p>
+<p class="MsoNormal">Its not uncommon for the owner to remove and store the 
+Owner's Manual away from the bike, and do not return it when they sell the bike.</p>
+<p class="MsoNormal">I would hope they do not do the same with the tool kit, it 
+should always be left in the bike when travelling in case of breakdown.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Trying to find these special compartments can be tricky 
+since they are small and often change from model to model of Honda CG125.</p>
+<p class="MsoNormal">The tool kit for example is around 14 cm long, 7 cm wide, 3 
+cm high on the Front Disc Brake model.</p>
+<p class="MsoNormal">It has the very basics of tools needed for the bike, like 
+the rear suspension adjustment spanner, spark plug tool and several other 
+spanners and screwdrivers.</p>
+<p class="MsoNormal">On the Front Disc brake model, the special compartment is 
+behind the left hand side panel, beneath the battery.</p>
+<p class="MsoNormal">But on other models it could be under the seat or even in 
+the tail of the bike or just strapped to the battery.</p>
+<p class="MsoNormal">There's a small chance it could be behind the right hand 
+side panel, but all the space is normally taken up by the air filter.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">How to remove the seat depends on the model.</p>
+<p class="MsoNormal">It’s usually held on by 2 screws or 2 nuts and bolts at only one 
+end of the seat (one on each side). </p>
+<p class="MsoNormal">They are usually underneath the back of the seat, but some 
+models are at the front (need to remove both side panels to get to them).</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">There's even a possibility that instead of screws or bolts, 
+it has 2 latches at the back, pull them towards the back of the bike to release,</p>
+<p class="MsoNormal">there could be a wire from the seat locked to the helmet 
+lock to stop people stealing the seat.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The other end of the seat is normally held in place by a 
+piece of the seat slotting in to a hole.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">If there's a storage compartment in the tail of the bike, 
+you will need to remove the seat and unbolt and remove the grab rail,</p>
+<p class="MsoNormal">unbolt the tail from the bike and remove.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The Owner's Manual is stored in a special compartment 
+beneath the right hand side panel on the Front Disc brake model,</p>
+<p class="MsoNormal">but could also be in the same places as the tool kit 
+mentioned above in other models.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Manuals"></a>Manuals</b></p>
+<p class="MsoNormal">My website has been designed so you do not need any 
+manuals, but if you have any of the following, I would use them as well as my 
+website.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">You can buy the Haynes Honda CG125 Owners Workshop Manual, 
+this can probably replace the Honda CG125 Owner's Manual.</p>
+<p class="MsoNormal">It also tells you how to service and repair the bike.</p>
+<p class="MsoNormal">You can buy it in printed form or download it direct from the manufacturer.</p>
+<p class="MsoNormal">Make sure it supports your model year, you will also find 
+that it tells you everything for the oldest model it supports,</p>
+<p class="MsoNormal">then in the back of the book it tells you the changes in 
+the instructions for newer models.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">You can also buy the official Honda CG125 Workshop Manual 
+for your model of Honda CG125.</p>
+<p class="MsoNormal">You can probably get it from your local Honda dealer,</p>
+<p class="MsoNormal">but this manual is designed for experienced mechanics, so 
+it probably will not tell you how to do very universal basic things.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Battery"></a>Battery</b></p>
+<p class="MsoNormal">Its behind the left hand side panel, if not it must be 
+behind the right hand side panel (very unlikely).</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The original battery in the front disc brake model is 
+maintenance free, so do not touch it. </p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">If you have a maintenance type battery, you need to keep an 
+eye on the liquid levels of all 6 compartments, </p>
+<p class="MsoNormal">keep the liquid between the min and max mark. </p>
+<p class="MsoNormal">You top the battery up with distilled water which is 
+available from most shops, </p>
+<p class="MsoNormal">you can save money by buying the stuff for domestic steam 
+irons from your supermarket, its the same stuff and says distilled water. </p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">For more information about batteries, faults and charging 
+see the <a href="basic_fault_finding.htm">Basic Fault Finding</a> page. </p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Oil"></a>Oil</b></p>
+<p class="MsoNormal" align="center"><a href="#Oil change">Oil change</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#How to check the Oil level">How to 
+check the Oil level</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Which Oil quality to use">Which 
+Oil quality to use</a></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Centrifugal Oil filter">
+Centrifugal Oil filter</a></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Oil change"></a>Oil change</b></p>
+<p class="MsoNormal">If you have the Owner's Manual, use it as a reference to the 
+following, it's not essential to have it.</p>
+<p class="MsoNormal">The Owner's Manual states change every 2500 miles (1850 miles front drum 
+brake model), </p>
+<p class="MsoNormal">I would change it at 2000 miles (1500 miles front drum 
+brake model) for a mixture of short and 
+long journeys,</p>
+<p class="MsoNormal">if you are mainly doing short journeys, change it every 1000 
+to 1500 miles (1000 miles front drum brake model). </p>
+<p class="MsoNormal">There 
+should never be a need for less than every 1000 miles.</p>
+<p class="MsoNormal">The best advice is to treat the  mileage in the Owner's 
+Manual as an absolute 
+maximum. </p>
+<p class="MsoNormal">Short journeys are bad for oil, the engine does not get up 
+to heat and condensation occurs, </p>
+<p class="MsoNormal">this means the oil will become dirtier per mile, than on 
+normal journeys, so you need to change the oil at less mileage.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Its probably a good idea to change the oil every year, even 
+if you have not done enough miles.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Tools Required.</p>
+<p class="MsoNormal">24mm Spanner or Socket to undo oil drain nut (left hand 
+side of bike near the bottom), front drum brake model may need another size.</p>
+<p class="MsoNormal">Front Drum Brake model may (depends on version) have another oil drain nut under the bike, 
+needs another size of spanner, do not no what size.</p>
+<p class="MsoNormal">Container to collect old oil (2 litre ice cream container 
+or anything).</p>
+<p class="MsoNormal">Rubber gloves to protect hands from oil.</p>
+<p class="MsoNormal">Small funnel to help pour new oil in to bike (washing up 
+liquid bottle, water bottle, pop or squash bottle cut in half and 100% cleaned 
+and dry).</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Warm up engine for at least 3 minutes (idling and revving, 
+if you take bike for a long fast ride you will get more oil out but don't burn 
+your fingers on the nut)</p>
+<p class="MsoNormal">Switch off engine and immediately </p>
+<p class="MsoNormal">Put container under the bike to catch the oil</p>
+<p class="MsoNormal">Put rubber gloves on hands</p>
+<p class="MsoNormal">Remove the dip 
+stick (black plastic knob, right hand side of bike, it measures the oil in the 
+engine).</p>
+<p class="MsoNormal">Remove the drain nut (see below, if the gear change lever 
+is in the way see <a href="General.htm#Gear change lever">Gear change lever</a> in <a href="General.htm">General</a> page).</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The Front Drum Brake model may (depends on version) have 
+a drain nut underneath the bike, </p>
+<p class="MsoNormal">this should be used to drain the oil (not the oil filter / 
+drain nut).</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The drain nut (24mm, left hand side of bike near the 
+bottom) has a large spring &amp; oil filter (metal gorse like a thimble that 
+protects a sewing operators finger,</p>
+<p class="MsoNormal">use the spring to wiggle the filter out) sitting in it, 
+clean filter with a suitable liquid like petrol (don't leave in petrol to long 
+or it will eat the rubber)</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">If you clean the filter with petrol, the petrol will 
+evaporate very quickly in the open air.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The front disc brake model claims you only need to clean 
+the oil filter every 7500 miles, </p>
+<p class="MsoNormal">I would clean it more often, to stop the centrifugal oil filter having to clean the oil. </p>
+<p class="MsoNormal">If you find anything major in the filter, look and think, 
+if your worried show it to a mechanic, </p>
+<p class="MsoNormal">its normal to get a bit of metal in there when an engine is 
+running in.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The Owner's Manual for the front disc brake model claims the centrifugal filter should be cleaned every 
+7500 miles.</p>
+<p class="MsoNormal">The centrifugal oil filter is inside the engine and never 
+needs to be cleaned if you keep the other oil filter clean and change the oil on 
+time or before,</p>
+<p class="MsoNormal">according to the mechanics. For more details see
+<a href="#Centrifugal Oil filter">Centrifugal Oil filter</a> below.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The oil will continue to drip out the bike for ages, 
+rocking the bike on the centre stand might help get more oil out.</p>
+<p class="MsoNormal">When its stopped dripping, or you can not wait any longer, 
+put the filter and drain nut back on.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Pour 900ml (1 litre bottles often have marks down the side) of 10W/40 new oil 
+(see <a href="#Which Oil quality to use">Which Oil quality to use</a> below) in (put oil drain nut back in first),</p>
+<p class="MsoNormal">Check the oil level is at the max mark or above (see
+<a href="#How to check the Oil level">How to check the Oil level</a> below),</p>
+<p class="MsoNormal">warm engine up (screw dip stick back in first) for 3 minutes 
+(idling and revving slightly in neutral) and check 
+oil level after its been off for 5 minutes. </p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="How to check the Oil level"></a>How to check 
+the Oil level</b></p>
+<p class="MsoNormal">Remove dip stick (black plastic knob, right hand side of 
+bike, it measures the oil in the engine), wipe the oil off,</p>
+<p class="MsoNormal">put dip stick back in bike but do not screw it in, the xxxx 
+marks at the bottom of the dip stick should face sideways (not up and down),</p>
+<p class="MsoNormal">take dip stick out of bike and look were the oil has gone 
+up to on the dip stick, </p>
+<p class="MsoNormal">the xxxx marks on the bottom of the dip stick mark the min 
+and max mark.</p>
+<p class="MsoNormal">Its much easier to see the oil in natural daylight than 
+with a light bulb.</p>
+<p class="MsoNormal">There's no harm going slightly above the max mark, but not 
+excessively, never run the engine below the min mark.</p>
+<p class="MsoNormal">Make sure you check the oil level with the bike on level 
+ground.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Which Oil quality to use"></a>Which Oil quality 
+to use</b></p>
+<p class="MsoNormal">Since the free 600 miles service I have used real semi 
+synthetic oil.</p>
+<p class="MsoNormal">Since I was running in the bike, I do not know what it did 
+to the performance, but the clutch felt a lot smoother.  </p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">There is an argument that I should have waited for the 
+engine to run in before using semi synthetic oil.</p>
+<p class="MsoNormal">Real semi synthetic oil will protect the engine when cold 
+and also at high revs, it also will not break down as fast at high engine revs, </p>
+<p class="MsoNormal">so the oil will do more miles before needing to be replaced (I would still change it 
+early anyway), unlike mineral oil / fake semi synthetic oil.</p>
+<p class="MsoNormal">Many oils claim to be semi 
+synthetic but are in fact normal mineral oil. Silkolene Comp 4 is semi synthetic 
+for sure.  </p>
+<p class="MsoNormal">Best way to find out is to look at a manufactures whole range and buy the 
+one just below the fully synthetic in price. </p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">I would only use motorcycle oil, car oil might work but 
+might cause trouble in the long term.</p>
+<p class="MsoNormal">There are so many technical reasons why not to use car oil, 
+even the highest quality car oil, just do not risk it.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">I would not use a very cheap or unknown brand of motorcycle 
+oil, since it could clog up the centrifugal oil filter and or even damage the 
+engine.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">It's ok to upgrade from mineral oil to real semi synthetic, 
+but a bad idea to go back again, the engine could develop a fault.</p>
+<p class="MsoNormal">Everyone except the oil companies advise against using 
+fully synthetic oil, since its to good and a waste of money and could cause 
+clutch slip, </p>
+<p class="MsoNormal">clutch slip has however been said to be a bad rumour, but 
+the idea has stuck in peoples brains. </p>
+<p class="MsoNormal">Honda sell their own oil for all Honda bikes. They only 
+sell mineral and semi synthetic. </p>
+<p class="MsoNormal">There must be a reason why they do not sell fully 
+synthetic, so I have not used it.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">If you want an explanation about oil and what is and 
+what is not synthetic and why you would want real semi synthetic, </p>
+<p class="MsoNormal">I will need to be more precise.</p>
+<p class="MsoNormal">Mineral oil comes out the ground.</p>
+<p class="MsoNormal">Synthetic is supposed to be 100% man made.</p>
+<p class="MsoNormal">One company messed around with mineral oil and claimed that 
+since a person messed about with it, it was now semi synthetic, </p>
+<p class="MsoNormal">there was a legal case and they won. </p>
+<p class="MsoNormal">Based on that principle you could milk a cow and boil the 
+milk 
+and claim its now semi synthetic.</p>
+<p class="MsoNormal">All they did to the mineral oil was molecularly convert 
+it.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">There are two 100% man made products and they are real 
+synthetics, since they are nothing to do with mineral oil.</p>
+<p class="MsoNormal">One is Ester, this is what protects your engine when cold 
+and also at high revs.</p>
+<p class="MsoNormal">The other synthetic product is PAO</p>
+<p class="MsoNormal">Ester clings to the parts in the engine and lubricates 
+them,</p>
+<p class="MsoNormal">Mineral oil does not cling as well when the engine is cold, 
+this results in a lack of oil lubricating the engine, </p>
+<p class="MsoNormal">which is why most engine wear happens when the engine is 
+cold.</p>
+<p class="MsoNormal">Mineral oil also loses its viscosity (thickness) at high temperatures, 
+so when you are at high engine revs, the oil thins and loses its lubrication 
+abilities,</p>
+<p class="MsoNormal">mineral oil also breaks down at high temperatures so must 
+be replaced more often.</p>
+<p class="MsoNormal">Ester must be mixed with PAO or Mineral oil, else your 
+engine would smash itself to pieces.</p>
+<p class="MsoNormal">If you see on a oil label, fully synthetic, it will have no 
+mineral oil in it. It will have a mixture of PAO and Ester or just PAO.</p>
+<p class="MsoNormal">Ester costs more than PAO, so PAO only oil will be much 
+cheaper and useless. I have not seen any PAO only oil for motorcycles. </p>
+<p class="MsoNormal">There are often two grades of fully synthetic motorcycle 
+oil, both have PAO and Ester, the quality and mixture is better in the more 
+expensive version. </p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Centrifugal Oil filter"></a>Centrifugal Oil 
+filter</b></p>
+<p class="MsoNormal">The centrifugal oil filter should not need to be touched as 
+long as the oil has been changed at the correct mileage or before (see
+<a href="#Oil change">Oil change</a> above).</p>
+<p class="MsoNormal">But some people change the oil every 5000 miles or never, 
+this means the oil becomes very dirty, the filters then become clogged up and 
+need to be cleaned.</p>
+<p class="MsoNormal">When the oil becomes very dirty you will notice the colour 
+change and other things,</p>
+<p class="MsoNormal">if you change the oil at the correct mileage or before (see
+<a href="#Oil change">Oil change</a> above), the oil you drain out should be 
+similar or identical to the new oil.</p>
+<p class="MsoNormal">Different brands and models of oil can have different 
+colours.</p>
+<p class="MsoNormal">Most if not all mechanics never clean the Centrifugal Oil 
+filter, including the Honda ones, unless it has clogged up due to lack of oil 
+changes.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The Owner's Manual for the front disc brake model claims the 
+Centrifugal Oil filter should be cleaned every 
+7500 miles, but the advice is to ignore it.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">If the Centrifugal Oil filter has clogged up due to lack of 
+oil changes, you will have to clean it or pay a mechanic.</p>
+<p class="MsoNormal">Unless you are good mechanically or have a Haynes or other 
+Honda CG125 workshop manual, do not try it yourself.</p>
+<p class="MsoNormal">You need a special tool to remove it, the specifications of 
+the tool can be obtained and manufactured at most motorcycle servicing shops.</p>
+<p class="MsoNormal">The tool required may depend on the model of Honda CG125.</p>
+<p class="MsoNormal">The Haynes Workshop manual for the Honda CG125 should tell 
+you and may even tell you how to make the tool yourself.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">You also have to remove the oil, clutch cable, exhaust, 
+foot rests including the metal bar they are on, brake pedal?</p>
+<p class="MsoNormal">If you have a kickstart, you have to remove that as well.</p>
+<p class="MsoNormal">Remove the right hand side engine cover, gasket (may need 
+to buy a new one), oil filter cover.</p>
+<p class="MsoNormal">You then have to stop the engine from turning (put bike in 
+gear and apply rear brake).</p>
+<p class="MsoNormal">Then you can unscrew and remove the filter.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Spark plug"></a>Spark plug</b></p>
+<p class="MsoNormal">Remove the spark plug cap on top of the spark plug (just 
+pull it off with a slight twist).</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Remove the spark plug with the tools in the bike (see 
+<a href="#How to find your bikes Tool Kit and Owners Manual">How to find your 
+bikes Tool Kit and Owners Manual</a> above).</p>
+<p class="MsoNormal">If you have no tools, you need a 18 mm spark plug tool 
+that's long enough to go over the top of the plug and reach the nut.</p>
+<p class="MsoNormal">if it's to tight 
+to turn, take the bike for a ride to get it up to heat or if it's already 
+hot, try it stone cold.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Screw a new plug in hand tight (with no tools), then put 
+the spark plug tool  on and tighten it 1/2 a turn.</p>
+<p class="MsoNormal">If you are fitting a used spark plug, hand tight again but 
+only use the spark plug tool to tighten 1/8 to 1/4 turn. A turn is 360 degrees.</p>
+<p class="MsoNormal">Put spark plug cap back on (just push on with a slight 
+twist).</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Which Spark Plug Model">Which Spark Plug Model</a></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal" align="center"><a href="#Important Spark Plug Information">Important Spark 
+Plug Information</a></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Which Spark Plug Model"></a>Which Spark Plug 
+Model</b></p>
+<p class="MsoNormal">When purchasing a new spark plug, there are 2 different 
+models of spark plug for 2 different designs of Honda CG125 engine.</p>
+<p class="MsoNormal">Lots of people and some mechanics can easily make a mistake 
+since it’s often very hard to work out which one you need.</p>
+<p class="MsoNormal">If you have the Owner’s Manual, it should tell you.</p>
+<p class="MsoNormal">If you have the original spark plug put in the bike when 
+manufactured you will no the correct spark plug model.</p>
+<p class="MsoNormal">But shop / mechanics often use spark plug manufacturers 
+recommendations for Honda CG125 and they are often wrong or misread.</p>
+<p class="MsoNormal">The Haynes Workshop manual is also often used and misread 
+(very easy to do).</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><span style="font-size:11.0pt">The two different spark plug 
+models are</span></p>
+<p class="MsoNormal"><span style="font-size: 11.0pt; color: black">NGK DR8ES-L</span></p>
+<p class="MsoNormal"><b><span style="font-size:11.0pt;color:black">&nbsp;</span></b></p>
+<p class="MsoNormal"><span style="font-size:11.0pt">NGK DPR8EA-9</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">NGK is the name of the manufacture and the rest is their 
+part number.</p>
+<p class="MsoNormal">Different spark plug manufacturers make equivalent spark 
+plugs but have different part numbers.</p>
+<p class="MsoNormal">The spark plug manufacturers do have conversion charts so 
+you can convert from one make to another.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">NGK is regarded by most people as the best and Honda 
+currently fit them as standard to the Honda CG125.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">As a guide, the older the bike, the more likely it will use 
+the first spark plug model above.</p>
+<p class="MsoNormal">The newer the bike, the more likely it will use the second 
+spark plug model above.</p>
+<p class="MsoNormal">If you can find your Honda CG125 model number and give it 
+to a Honda dealer, they should be able to work out which spark plug you need.</p>
+<p class="MsoNormal">But don't let them simply go by the year the bike was 
+built, only the model number will give the correct plug.</p>
+<p class="MsoNormal">That's because Honda CG125 are built in several different 
+country's, one country could make new models and another could always stay 
+making old models.</p>
+<p class="MsoNormal">Spark Plugs based on year in the UK for example will assume 
+you have a model imported by Honda UK,</p>
+<p class="MsoNormal">but loads of Honda CG125 in the UK are not imported by Honda UK and 
+are often old model designs (often a 4 speed gearbox and old 
+fashioned bodywork).</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">You might be able to find your model number on the chassis 
+near or behind the left hand side panel, otherwise you need to find the frame 
+number,</p>
+<p class="MsoNormal">the Haynes Workshop manual or a Honda dealer may be able to 
+convert the frame number in to a model number.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Important Spark Plug Information"></a>Important 
+Spark Plug Information</b></p>
+<p class="MsoNormal">If you need a NGK DR8ES-L spark plug (see 
+<a href="#Which Spark Plug Model">Which Spark Plug Model</a> above to find out), you need to set the 
+gap (search the internet) to 0.7mm yourself.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">All of the information below only applies if your engine 
+uses the <span style="font-size:11.0pt">NGK DPR8EA-9</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The book tells you to clean and check the gap of the plug 
+every 2500 miles and replace every 5000.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">You do not need to check the gap of a new 
+spark plug,</p>
+<p class="MsoNormal">since its preset at the plug factory to the correct gap 
+(NGK brand is for sure and is set to 0.9mm). </p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">I could not be bothered to clean and check the plug gap at 
+2500 miles since a new plug only costs £2.99 to £5 dependant on shop. </p>
+<p class="MsoNormal">That means at 2500 miles the plug is only worth £1.50 to 
+£2.50 so not worth the work of cleaning and checking the gap, so I put a new one 
+in.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">You need a&nbsp; NGK DPR8EA-9 spark plug for normal riding and a NGK 
+DPR9EA-9 for extended high speed riding,</p>
+<p class="MsoNormal">The extended high speed riding spark plug is stated in the 
+Honda CG125 Front Disc brake models Owner's Manual,</p>
+<p class="MsoNormal">but can not be totally sure for other models, but it makes 
+sense since its the same spark plug but gets rid of more heat out of the engine.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The following spark plug information is for the front disc 
+brake model, </p>
+<p class="MsoNormal">I can not be sure if the same would apply to other models.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">I found  that 54mph in 5th 
+gear is 
+high speed for the plug and results in power dropping off if left at that speed 
+for 1/2 mile. </p>
+<p class="MsoNormal">The power drop off (plug overheating), results in the bike 
+dropping to 50mph against a strong head wind, if you slow down allot the plug will 
+recover. </p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">I fitted the DPR9EA-9 plug and end of problem = no power 
+drop off and the bikes about 5 mph faster. </p>
+<p class="MsoNormal">If you use the DPR9EA-9 for slow speed (especially idling a lot in traffic jams),</p>
+<p class="MsoNormal">there's a chance the plug will not be hot enough to burn off 
+petrol burning deposits on the electrode and the bike will stutter or stall. </p>
+<p class="MsoNormal">I have not had any problems, but would not use it if I was 
+in city traffic all the time with massive amounts of idling, </p>
+<p class="MsoNormal">of course as soon as you get some speed going the plug will 
+heat up and burn off the deposits. </p>
+<p class="MsoNormal">The petrol quality could also effect this, I use Shell V 
+Power since it has extra cleaners in it.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">You can also buy a NGK Iridium spark plug, I got the one 
+that’s equivalent to the DPR9EA-9, </p>
+<p class="MsoNormal">its made a very slight improvement in smoothness, power, pulling power 
+and less vibration. </p>
+<p class="MsoNormal">But its very slight and probably not work the price tag of 
+3 times the price of a normal plug. </p>
+<p class="MsoNormal">But it will last 2 to 3 times as long. Iridium must not be 
+cleaned or the gap changed. I suggest doing 10,000 miles with one.</p>
+<p class="MsoNormal">The Iridium plug also claims to burn off deposits more than 
+a normal plug at slow speeds, so could help the high speed plug potential 
+problem.</p>
+<p class="MsoNormal">It also claims to require less power from the battery and 
+ignites the petrol better on cold days.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">NGK Iridium Spark Plug Conversion chart</p>
+<p class="MsoNormal">DPR8EA-9 (NGK Normal Plug) = DPR8EIX-9 (NGK Iridium Plug)</p>
+<p class="MsoNormal">DPR9EA-9 (NGK Normal Plug) = <span lang="EN">DPR9EIX-9 (NGK 
+Iridium Plug)</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Chain Oiling"></a>Chain Oiling</b></p>
+<p class="MsoNormal">Even O ring and fully enclosed chains need oiling.</p>
+<p class="MsoNormal">Use a motorcycle chain oil, there are arguments for and 
+against motorcycle chain wax so oil is recommended.</p>
+<p class="MsoNormal">Engine or gear oil is not recommended (will just fling off 
+very quickly).</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">You will no when to oil the chain by looking at it, and or 
+kick the back wheel round and notice the chain going round, if it feels notchy, 
+it needs oiling.</p>
+<p class="MsoNormal">If you do not have a fully enclosed chain, I would check 
+the chain every time it rains when its dried.</p>
+<p class="MsoNormal">I found (without a fully enclosed chain) its not mileage 
+that effects when you need to oil the chain, its time and rain.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">To oil the chain, make sure it has no water on it, it's 
+probably best to oil the chain when it's hot just after a ride.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Spray the chain with oil on the inside (the side that makes 
+contact with the sprockets), the oil will fling outwards when bike is used and 
+oil the outside.</p>
+<p class="MsoNormal">Do not spray the outside of the chain since it will just 
+fling off and create a mess every ware.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The best advice is to oil a chain often but not with a lot 
+of oil.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Chain oil is slippery so wipe off any that gets on to the 
+tyre.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Do not ride the bike for at least 1 hour afterwards, else 
+the oil will immediately fling off.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The better the chain oil, the more it will stick on (not 
+fling off), it will also last longer and resist water.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Chain Tension"></a>Chain Tension</b></p>
+<p class="MsoNormal">See Owner's Manual and the information below,
+<span style="font-size: 12.0pt; font-family: Times New Roman">if you don’t have 
+the </span>Owner's Manual you can manage without it.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Chain Tension should be 20mm (can be 10 to 20mm) in the 
+middle of the chain at the tightest spot.</p>
+<p class="MsoNormal">To measure, put a ruler or stick (with marks on it) next to 
+the middle of the chain (just in front of the rear passenger foot rest?).</p>
+<p class="MsoNormal">Put your finger under the chain and try to pull it up until 
+you feel slight resistance.</p>
+<p class="MsoNormal">Move the back wheel slightly and recheck the chain, keep 
+doing this until you find the tightest spot.</p>
+<p class="MsoNormal">The chain tightness is
+<span style="font-size: 12.0pt; font-family: Times New Roman">affected</span> by 
+how much oil is on the chain.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">To adjust the chain tension, slacken the right hand rear 
+wheel axle nut (22mm ?).</p>
+<p class="MsoNormal">There are 2 adjusters, one on each side of the axle, they 
+both have 2 nuts (12 ? and 10mm ?, the one on the end is a locking nut).</p>
+<p class="MsoNormal">Put a spanner on both nuts at the same time, and slacken 
+the end one.</p>
+<p class="MsoNormal">Repeat this on the other adjuster.</p>
+<p class="MsoNormal">Tighten both adjusters by the same amount of turns (or 
+wheel alignment will go out), recheck chain tension.</p>
+<p class="MsoNormal">The adjusters should point to little marks on the frame, 
+they should be the same on both sides or the wheel alignment will be wrong.</p>
+<p class="MsoNormal">If your wheel alignment has been set perfectly (part of the 
+MOT), you do not need to worry about the marks.</p>
+<p class="MsoNormal">One of the adjusters should point to a label on the frame 
+that has a wear indicator, when it says it's worn out replace the chain.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">When tightening the rear axle nut, </p>
+<p class="MsoNormal">push the rear wheel in to the bike with your left hand 
+while tightening with your right hand, </p>
+<p class="MsoNormal">do not try to tighten the adjuster nuts, just lock the 
+locking nuts in place, </p>
+<p class="MsoNormal">to check that the adjuster nuts are tight, try to put a 
+piece of paper between them and the frame.</p>
+<p class="MsoNormal">Recheck chain tension and repeat procedure if necessary.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The original chain on the front disc brake model is O ring 
+type, this costs several times more money than a non O ring chain, </p>
+<p class="MsoNormal">but it lasts several times longer and keeps the internal 
+oil inside it due to the O rings. </p>
+<p class="MsoNormal">I advise you stick to  the manufacturers choice. Of 
+course a X ring is even better than a O ring but costs even more.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Air Filter"></a>Air Filter</b></p>
+<p class="MsoNormal">When to clean or replace the Air Filter has nothing to do 
+with mileage, it has to do with how clean the air is in your country.</p>
+<p class="MsoNormal">You only need to replace the Air Filter if it has holes in 
+it or you can not clean it.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">In the UK for example the air is clean enough that you may 
+never or hardly ever need to clean the filter for the life of the engine.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">You can always have a look at the Air Filter to see if it 
+needs cleaning or replacing (the cleaning instructions below will show you how).</p>
+<p class="MsoNormal">But you can also simply check the spark plug or check it 
+when the engine runs rich (looses power and other things),</p>
+<p class="MsoNormal">see Spark Plug in
+<a href="basic_fault_finding.htm#Mechanical Faults">Mechanical Faults</a> in 
+<a href="basic_fault_finding.htm">Basic Fault Finding</a> page.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The Owner's Manual tells you how to clean the Air Filter (if you do not 
+have it, see below).</p>
+<p class="MsoNormal">The Air Filter is behind the right hand side cover of the bike (if not it 
+must be behind the left hand side cover, very unlikely).</p>
+<p class="MsoNormal">Remove it,</p>
+<p class="MsoNormal">if its the paper type you can only try to blow any dirt 
+away with a pump or compressor (Front Disc Brake model is paper type).</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">If its foam type, you can wash it. </p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Wash the foam filter in white spirit or warm water with detergent.<br>
+Make sure you rinse out all the white spirit or detergent thoroughly with loads 
+of water.<br>
+Make sure the foam is 100% dry then soak in SAE 80 gear oil, SAE 90 gear oil or 
+SAE 30 (often sold for Lawn Mowers) engine oil.<br>
+<br>
+Gently Squeeze out excess oil (else exhaust will smoke until it's burned off).<br>
+Squeezing should be more like pressing, do not wring it out (do not turn one bit 
+out one way and the other another) else you will damage the foam.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Idle Mixture Screw"></a>Idle Mixture Screw</b></p>
+<p class="MsoNormal">The following applies to the front disc brake model. </p>
+<p class="MsoNormal">I would advise you to also try it with the old model, </p>
+<p class="MsoNormal">but do not expect to have to adjust it by such a large 
+amount or have such a warming up problem in the first place,</p>
+<p class="MsoNormal">since it does not have such strict emission regulations. </p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Tools required, a small flat headed screwdriver bit (must 
+not have a handle since it would hit bike and not fit)</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">If the Air Filter is clogged up, it will affect the 
+mixture, so if you are in any doubt that the filter is clogged, clean it, see
+<a href="#Air Filter">Air Filter</a> above.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The fuel mixture is set incredibly lean when idling by the 
+manufacturer (to reduce pollution). </p>
+<p class="MsoNormal">This results in the engine taking forever to warm up, cools 
+down very quickly needing choke again and hesitation when opening the throttle. </p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The dealer may have adjusted it if your lucky. </p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">If not, fully warm the bike up = 10 miles or more at high 
+speed at the end (40mph for 5 miles does not warm it up). </p>
+<p class="MsoNormal">Make sure the outside temperature is between 14c and 30c 
+and you're near sea level (not up a mountain).</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Look under the carburettor and find the screw (front right 
+hand side of bike, its the screw sticking out and is not tight), adjust it until you get the fastest idle.</p>
+<p class="MsoNormal">1/4 turn will make a difference, adjust the screw and then 
+wait a few seconds for the engine to react, blipping the throttle is some times needed. </p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">When you have found the fastest idle, you will find that 
+even opening and closing the screw 1/4 turn, will slow the engine down.</p>
+<p class="MsoNormal">If you have trouble hearing if the engine has increased or 
+decreased in speed,</p>
+<p class="MsoNormal">ask some one to stand the other side of the bike or behind 
+the bike (listen to the silencer)</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The screw would originally be set to about 1 and 3/4 turns 
+open. Mine ended up at 3 1/4 turns open.</p>
+<p class="MsoNormal">You may then need to adjust the <a href="#Idle speed screw">
+Idle speed screw</a> (see below) if the idle speed is to high, but whenever you touch it, 
+recheck the mixture screw setting again.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">If you open the Idle Mixture Screw to many turns, it will 
+fall out, </p>
+<p class="MsoNormal">simply push it back in (it does have a spring and washers 
+inside that will fall off if turned upside down).</p>
+<p class="MsoNormal">If the screw is on the fall out turn part, vibration may make it rotate 
+slightly and drop out.</p>
+<p class="MsoNormal">I have had no trouble at 3 1/4 turns open, its still got 
+over 1 whole turn to go before it would fall out.</p>
+<p class="MsoNormal">I class one turn as 360 degrees.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Idle speed screw"></a>Idle Speed Screw</b></p>
+<p class="MsoNormal">The Owner's Manual shows a picture of where it is.</p>
+<p class="MsoNormal">On the front disc brake model, look at the right hand side 
+of the bike, look at the right hand side panel,</p>
+<p class="MsoNormal">look half way down the side panel and then just to the 
+right of the side panel. See that small black plastic box.</p>
+<p class="MsoNormal">There's a small flat headed screw on the left hand side of it 
+(almost touching the side panel), that is the Idle Speed screw.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Fully warm the bike up = 10 miles or more at high speed at 
+the end (40mph for 5 miles does not warm it up).</p>
+<p class="MsoNormal">Slow the engine idle speed down to the point were it starts to thump 
+during one of its cycles, </p>
+<p class="MsoNormal">then speed it up until it stops thumping, </p>
+<p class="MsoNormal">then speed it up a fraction more.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The whole idea about what speed to set the idle, on any 
+motorbike engine is the following.</p>
+<p class="MsoNormal">To slow and the bike will stall, nearly fast enough and the 
+engine will splutter or stall now and again.</p>
+<p class="MsoNormal">To fast and the engine will overheat in a traffic jam and 
+burn more petrol than needed.</p>
+<p class="MsoNormal">The gear change is also effected by idle speed, to fast or 
+slow will effect how smooth it is or even stop you changing gear in extreme 
+cases.</p>
+<p class="MsoNormal">The difference in overheating speed and stalling speed is 
+large, so you only have to roughly set the idle speed.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Clutch cable"></a>Clutch cable</b> </p>
+<p class="MsoNormal">If it stretches, use the adjuster on the clutch lever 
+(behind rubber) to adjust it.</p>
+<p class="MsoNormal">It should have 10 to 20mm (20mm recommended) of free play 
+(slack, before it starts to work) between the lever tip and the handle bar.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The cable needs to be oiled only when you notice it needs it, clutch 
+will feel rough and need more power.</p>
+<p class="MsoNormal">Don't be surprised to find that's a very long time away.</p>
+<p class="MsoNormal">You can just replace the whole cable, cheap enough if you 
+do not want to oil the old.</p>
+<p class="MsoNormal">To oil the old, unscrew the adjuster nut at the clutch 
+lever and remove cable, </p>
+<p class="MsoNormal">put a small hole in a plastic bag and put the hole over the 
+clutch cable, </p>
+<p class="MsoNormal">tie the plastic bag hole end to the plastic outside of the 
+clutch cable with tape to make an oil tight seal, </p>
+<p class="MsoNormal">hold bag upright and pour some engine oil in to it. </p>
+<p class="MsoNormal">If possible leave bag upright all night (tie it to something 
+in the ceiling), </p>
+<p class="MsoNormal">the oil will run down the cable and out the other end, put 
+something there to absorb it.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Throttle cable"></a>Throttle cable</b></p>
+<p class="MsoNormal">If it stretches, adjust it to 2-6 mm free play, the adjuster is on 
+the throttle cable, there's a lock nut to undo first.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">I was told by a Honda dealer that the throttle cable is 
+maintenance free on the front disc brake model, if it wears out you need to replace it,  </p>
+<p class="MsoNormal">you do not oil it. I do not know if this applies to older models or not.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Rear Brake"></a>Rear Brake</b></p>
+<p class="MsoNormal">Free play (slack, before brake works) from the brake pedal 
+to the ground 
+should be 20 to 30mm,  adjust it with the nut on the brake rod on the 
+back wheel.</p>
+<p class="MsoNormal">After adjusting, check that the brake light comes on when 
+rear brake is applied, if it does not see the 
+<a href="basic_fault_finding.htm#Light Bulbs">Light Bulbs</a> section in 
+<a href="basic_fault_finding.htm">Basic Fault Finding</a> page.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Front Drum Brake"></a>Front Drum Brake</b></p>
+<p class="MsoNormal">It should have 20 to 30mm of free play (slack, before brake 
+works) between the lever tip and the handle bar, you can adjust it with the nut on the brake lever.</p>
+<p class="MsoNormal">If it needs lubrication, see <a href="#Clutch cable">Clutch 
+cable</a> above to find out 
+how to lubricate it.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Front Disc Brake"></a>Front Disc Brake </b></p>
+<p class="MsoNormal">When new the disc is to smooth, this reduces braking power 
+by a massive amount. </p>
+<p class="MsoNormal">The secret to running it in, is not to clean it and 
+use the brake heavily and a lot. </p>
+<p class="MsoNormal">I did the opposite and the result was terrible, in the end 
+ 
+winter came and the roads had salt on and were soaking wet. </p>
+<p class="MsoNormal">The brake  hardly worked at all, with water and salt 
+all over it, </p>
+<p class="MsoNormal">so I had to put far more brake pressure on than normal and took a 
+long distance to stop, </p>
+<p class="MsoNormal">after a few miles of this the brake doubled in power and 
+has been fine ever since. </p>
+<p class="MsoNormal">I expect the salt water and excessive braking has made the disc 
+rough.</p>
+<p class="MsoNormal">A Honda mechanic new about this problem and mentioned you 
+could buy brake pads with metal in them to do the same job as salt water.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">When the brake pads wear out, changing them is  simple, search the internet 
+for information.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">If the brake is excessively binding, you need to clean the brake, again 
+its simple, search the internet for information.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Brake fluid changing, I advise you to change the fluid if 
+it’s a new bike before the 2 year schedule, </p>
+<p class="MsoNormal">I changed it 2 months early and noticed a substantial 
+improvement in power and feel.</p>
+<p class="MsoNormal">There are several different ways to change the fluid, </p>
+<p class="MsoNormal">you can buy a one way valve brake bleeding system for less 
+than £10 and instructions are included.</p>
+<p class="MsoNormal">Its pretty easy and I recommend you try it, just remember 
+brake fluid eats paint so cover it up.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The smallest bottle of DOT 3 or 4 brake fluid is needed.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Any brake bleeding device will come with plastic tubing to 
+connect to the brake, if you do not buy anything,</p>
+<p class="MsoNormal">you will need transparent clear plastic tubing 
+with an internal diameter of 5mm, available from motor shops and maybe DIY and 
+fish tank shops.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">The instructions below are how I replaced the brake fluid, 
+it's a combination of the one way valve system and the non one way valve system.</p>
+<p class="MsoNormal">The instructions might make it look hard and complicated, 
+but it really is very easy, lots of the instructions are not needed,</p>
+<p class="MsoNormal">there just in case something goes wrong (unlikely).</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">I used the metal one way valve (look for the arrow on it, 
+for the direction of flow) with transparent clear plastic tubing on each end 
+(small tube = brake end).</p>
+<p class="MsoNormal">The plastic tubing was very determined to stay in its 
+coiled up state, you need someone to help you  keep it straight,</p>
+<p class="MsoNormal">or you could trap it (I put it through a large funnel which 
+I trapped in the handle of a large bucket).</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">1. Remove the small black rubber cap on the brake bleed nipple 
+(disc end of brake) and attached the small tube.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">2. Unscrew and remove the brake fluid reservoir lid, there's 
+a second lid inside that you need to pull out.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">3. Pull the brake lever in slowly (as far as you can 
+without excessive force) and slowly release, repeat this 3 or 4 times to get the 
+pressure up,</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; then pull it in again slowly and hold 
+while very slowly opening the brake bleed nipple nut (the pressure on the 
+brake lever will reduce, </p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; keep pressure on lever, when lever hits 
+handle bars, keep it there), as soon as fluid flows easily in to the transparent 
+pipe, stop opening the nut.</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; When the fluid stops moving, close the 
+nut and only then release the brake lever slowly.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">4. Repeat step 3 until brake fluid has gone through the one 
+way valve.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">5. You can now leave the nut open and slowly pull the brake 
+lever in and slowly release over and over until nearly all the fluid is out of 
+the reservoir,</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; do not let air get in to the small pipes 
+in the bottom of the reservoir or you will get air in to the system.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">6. Make sure you have covered everything around the 
+reservoir since you may spill the brake fluid, which eats paint, even a single 
+drop.</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; Pour new brake fluid in 
+to the reservoir (must be an unopened bottle, it goes off as soon as it's 
+opened).</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; Keep repeating step 5 and put new brake fluid in 
+when needed, when the colour of the fluid in the transparent tube changes,</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; you have replaced all the old fluid in 
+the brake system, if you do not notice the colour change,</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; you must have changed all the fluid when 
+most of the small bottle is used.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">7. If the brake lever looses all or some of its pressure, 
+you have let air in to the system, repeat step 3 to get it out.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">8. The fluid in the transparent tubing before the one way 
+valve should not have any bubbles or foaming in it, if it does you need to get them 
+out,</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; you can try step 3 again, you may also 
+need to experiment with the bleed nut (try opening it less or more),</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; you may also have to try closing the 
+brake bleed nut before the brake lever touches the handle bars.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">9. When finished, make sure brake bleed nut is closed tight 
+and top up the reservoir (never let it drop below the Lower mark).</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">10. Put reservoir lid back on and then the outside lid, you 
+do not need to tighten screws very hard since its all rubber, </p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; remember how easy it was to 
+unscrew.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">11. Any brake fluid that has been spilt needs to be diluted 
+with loads of water to stop it eating things, </p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; it's normal for some brake 
+fluid to have escaped around the brake bleed nut.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">12. If you have trapped air in the brake system (unlikely), the brake will have a lack of pressure and feel spongy.</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If step 8 does not fix this 
+problem, the air is trapped higher up the system, you need to make sure the 
+brake bleed nut is closed tight,</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; then slowly pull the brake lever in 
+until it touches the handle bar, then tie the lever to the handle bar while it's 
+still touching, leave it like that overnight.</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then open the bleed nut 
+slowly and hopefully the air will come out. If this still does not totally work, 
+try again, the reservoir lid might need to stay off overnight.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><b><a name="Valve clearance"></a>Valve clearance </b></p>
+<p class="MsoNormal">Tools required (may be different sizes for front drum brake 
+models)</p>
+<p class="MsoNormal">10mm Allen Key (6 sided hex key)</p>
+<p class="MsoNormal">6mm Allen Key (6 sided hex key)</p>
+<p class="MsoNormal">10mm spanner</p>
+<p class="MsoNormal">8mm spanner (high quality, else it will not grip the nut 
+well enough to turn), not needed for front drum brake models.</p>
+<p class="MsoNormal">14mm socket</p>
+<p class="MsoNormal">Feeler gauge (available from most motor shops, thin pieces 
+of metal of different thicknesses, must measure 0.08mm or 0.003 inch)</p>
+<p class="MsoNormal">Torch</p>
+<p class="MsoNormal">Magnifying Glass (depends on your eye sight)</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">1. Leave bike overnight to cool down, this is essential 
+since the valve clearance changes with a hot engine.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">2. Remove the two round Allen (hex) key covers on the left hand 
+side of the engine case.</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; (If they will not undo, warm the bike up and then try, 
+once they are off leave bike overnight to cool down again).</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; The big one is for turning over the engine (you might 
+be able to use rear wheel + 5<sup>th</sup> gear instead)</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; The small one is were the marks for valve clearance and 
+timing are (T is for valve and F for timing)</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">3. You can remove the spark plug to aid turning over the 
+engine but not really needed.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">4. Turn the engine over anticlockwise with a 14mm socket 
+until a small on its side T is displayed on the outside of</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; the disc (you will need a torch and magnifying glass), 
+line the mark below the T up with the grove at the top of the hole.</p>
+<p class="MsoNormal" style="margin-left: 18.0pt">&nbsp;</p>
+<p class="MsoNormal">Ignore all of steps 5 (5, 5.1, 5.2, 5.3) if you have the 
+front drum brake model.</p>
+<p class="MsoNormal">5. &nbsp;&nbsp;To remove the valve cover you first need to remove the 
+air box attached to the valve cover (its on the top of the engine, left side) =</p>
+<p class="MsoNormal">5.1 Slide the rubber air pipe out of the metal hook on the 
+bikes metal frame (underneath the petrol tank).</p>
+<p class="MsoNormal">5.2 Remove the two main bolts (10mm) attaching the air box 
+to the valve cover.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">5.3 Remove the two 8mm bolts attaching the air pipe to the 
+top of the valve cover (pipe has a rubber washer), </p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; slide air box + pipes away from valve cover / bike.</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp; </p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If the spanner can not grip,</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; try a better quality spanner 
+or warm the bike up and then try (let the bike cool down overnight again before 
+checking valve clearance)</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or remove the petrol tank &amp; 
+use a socket set / may need an extra thin extension shaft.</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;To remove petrol tank</p>
+<p class="MsoNormal">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make sure petrol on/off/reserve tap is off &amp; detach 
+petrol fuel hose from petrol on/off/reserve tap </p>
+<p class="MsoNormal">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;remove left side panel of bike, unclip right side 
+panel where it clips in to petrol tank</p>
+<p class="MsoNormal">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unclip petrol tank electrical connection and un hook 
+wire from the bikes metal frame</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; remove seat (2 nuts 
+underneath rear mud guard on the sides), remove bolt holding tank, remove tank 
+by pulling it towards rear of bike and up</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">6. Remove the valve cover, its on the very top of the 
+engine, two bolts on the right and one on the left (10mm), </p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; there's a rubber gasket inside a grove 
+inside the lid (do not lose or damage / trap it). </p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; You will find there is a technique to 
+getting the valve cover off, it gets caught on the bikes metal frame and also 
+the valves inside. </p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; You may think its impossible to get out, 
+but there is a way, keep trying all the different angles till you find the 
+technique, brute force does not work.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">7. Check that you can rock the valves, if you can not, you are on 
+the wrong engine stroke, simply repeat step 4</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; If you can not work out if the valves 
+are rocking, they will only rock if there's some valve clearance. </p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; If your on the wrong stroke there's no 
+valve clearance.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">8. &nbsp;The valve clearance should be set to = 0.08mm (0.003 
+in), this applies to all Honda CG125 models, there are only 2 valves. </p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp; a feeler gauge is available from 
+most motor shops like Halfords, a feeler gauge is 
+just a set of metal plates of various thicknesses.</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp; If the valve clearance is correct, 
+the feeler gauge will feel very slight resistance when moving through the gap.</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp; If you find the valves need to be 
+adjusted, its worth trying to turn the engine over several times (repeat step 4 
+twice then check and repeat)</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;  to see if it then is 
+correct, there's always a slight variation every time you turn the engine over.</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp; To adjust a valve, loosen the nut on the valve you 
+wish to adjust, use pliers (or hand) to turn the top of the screw</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp; thread (or obtain the proper tool) 
+until the clearance is at the desired amount, then re tighten nut.</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp; Recheck valve clearance after re 
+tightening the nut, if its gone out, loosen nut again and readjust.</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; &nbsp;Check valve clearance every 2,000 miles until it 
+settles down then every 4000</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">9. Reassemble everything in reverse order, but make sure 
+the rubber air hose is not trapped on the inside when </p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp; attaching air box to valve cover (does 
+not apply to front drum brake model since it does not have one).</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal"><b><a name="Ignition Timing"></a>Ignition Timing</b></p>
+
+<p class="MsoNormal">All the 1995 ? (S &amp; T models) onwards, Honda CG125 bikes have Electronic Ignition, 
+also known as <font FACE="TimesNewRoman" SIZE="3">Capacitor Discharge or CDI,
+</font><font face="TimesNewRoman">it requires no maintenance.</font></p>
+
+<p class="MsoNormal"><font face="TimesNewRoman">The only reason to change the 
+Electronic Ignition Timing setting, is to bodge a worn out engine (if you are to lazy to 
+replace the worn out parts).</font></p>
+
+<p class="MsoNormal"><font face="TimesNewRoman">Some people change the 
+Electronic Ignition 
+Timing setting to try to get more power out of the engine, not advised, this is 
+not a sports bike engine.</font></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal"><font face="TimesNewRoman">If you have a  Honda CG125 before 
+1995 (before S &amp; T models) it could still have the old Points system, this requires maintenance 
+a bit like the Valve Clearance.</font></p>
+
+<p class="MsoNormal"><font face="TimesNewRoman">The Points system is very easy 
+and cheap to replace with Electronic Ignition, its very common for any make or 
+model of bike to be converted.</font></p>
+
+<p class="MsoNormal"><font face="TimesNewRoman">The Points system is also less 
+reliable and does not work as well as Electronic Ignition (lack of power at some 
+engine revs).</font></p>
+
+<p class="MsoNormal"><font face="TimesNewRoman">If you have the Points system I 
+can only give you very basic information, search the internet or get the Haynes 
+Workshop Manual if you need more help.</font></p>
+
+<p class="MsoNormal"><font face="TimesNewRoman">The Points are behind the left 
+hand engine cover.</font></p>
+
+<p class="MsoNormal"><font face="TimesNewRoman">Follow steps 1 to 4 from the 
+<a href="#Valve clearance">Valve clearance</a> section above, but instead of aligning up the T, align up F.</font></p>
+
+<p class="MsoNormal"><font face="TimesNewRoman">The points gap should be 0.3 mm (0.012 
+inch) to 0.4 mm (0.016 inch), 0.35 mm (0.014 inch) is were you should set it to 
+ideally.</font></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal"><b><a name="How to replace the Headlight Bulb"></a>How to 
+replace the Headlight Bulb</b></p>
+
+<p class="MsoNormal">For information about different headlight bulbs, see 
+<a href="Accessories.htm#Headlight Bulb">Headlight Bulb</a> 
+in <a href="Accessories.htm">Accessories</a> page.</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">The following is for the Front Disc brake model, I would 
+not be surprised if it was also correct for the Front Drum brake model, but 
+check in case.</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">The original bulb is a 12v 35/35w incandescent type with a 
+BA20d connection to the bulb holder.</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">Remove the 2 screws underneath the headlight (just behind 
+the chrome rim), they will be very tight.</p>
+
+<p class="MsoNormal">Both screws will have a washer and a plastic tube that goes 
+through the hole, make sure you get both of them out as well.</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">Pull the bottom of the chrome rim away from the bike to 
+remove the headlight (this will be hard so use brute force).</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">When you have removed the headlight, you will find the 
+headlight wire half way along, has a connector, remove the connector (it has a 
+little clip).</p>
+
+<p class="MsoNormal">The headlight should now be totally disconnected from the 
+bike.</p>
+
+<p class="MsoNormal">Look at the rubber bulb holder, there's a small spring 
+connecting it to the headlight, remove the spring at that end.</p>
+
+<p class="MsoNormal">Pull the rubber away at the edges, then lift the bulb 
+holder out, it has a little piece of metal sticking in to a slot in the 
+headlight at the opposite end to the spring.</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">You should now put a pair of clean gloves on, this is 
+critical if you are touching a Halogen bulb, its also recommended for any bulb.</p>
+
+<p class="MsoNormal">I use normal disposable gloves, that are totally clean, if 
+you touch the bulb without gloves, you must clean it with a soft cloth and 
+mentholated spirit.</p>
+
+<p class="MsoNormal">If you do not clean it, the bulb is likely to fail 
+(overheat and destroy itself) when you use it next.</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">To remove the bulb, push it in to the bulb holder and twist 
+it anti clockwise.</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">To put a new bulb in, you will find it will only go in one 
+way round, the 2 bayonet arms are different sizes.</p>
+
+<p class="MsoNormal">You may think a Halogen bulb has so much metal you would 
+not touch the glass / plastic sensitive part, but its impossible, you must wear 
+gloves.</p>
+
+<p class="MsoNormal">Push the new bulb in to the bulb holder and twist 
+clockwise.</p>
+
+<p class="MsoNormal">Find the little piece of metal sticking out of the bulb 
+holder (opposite side to the spring), put it in the slot in the headlamp.</p>
+
+<p class="MsoNormal">Push the rubber back in to place to create a seal, 
+reconnect the spring to the headlight.</p>
+
+<p class="MsoNormal">Reconnect the headlamp wire connector to the bike.</p>
+
+<p class="MsoNormal">Put headlamp back in to bike and line up the screw holes 
+and put the 2 screws back in with the bits that were with it.</p>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3045927-1";
+urchinTracker();
+</script>
+
+</body>
+
+</html>

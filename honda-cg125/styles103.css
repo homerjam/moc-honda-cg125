@@ -1,0 +1,221 @@
+﻿body {
+	background-color: #777;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #000;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#container {
+	background-color: #fff;
+	width: 925px;
+	padding: 0;
+	margin: 0 auto;
+}
+/* Red #990000 for 1st website Blue #008 for 2nd website
+   Purple #700070 and Green #005500 for future websites */
+#masthead {
+	background-color: #990000;
+	height: 84px;
+	padding: 0 0 0 9px;
+	margin: 0;
+	overflow: auto;
+	width: auto;
+}
+#navigation {
+	background-color: #545454;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	clear: both;
+	overflow: hidden;
+	width: auto;
+}
+#content {
+	background-color: #fff;
+	padding: 0 0 0 8px;
+	position: relative;
+	float: none;
+	margin: 0;
+	width: auto;
+}
+/* Red #990000 for 1st website Blue #008 for 2nd website
+   Purple #700070 and Green #005500 for future websites */
+#footer {
+	background-color: #990000;
+	clear: both;
+	overflow: auto;
+	text-indent: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: auto;
+}
+
+/* Styles for Masthead */
+#masthead h1 {
+	color: #fff;
+	font-weight: normal;
+	font-size: 24px;
+	margin: 13px 0px 0px 0px;
+}
+#masthead h2 {
+	color: #fff;
+	font-weight: normal;
+	font-size: 16px;
+	margin: 5px 0px 0px 0px;
+}
+#masthead img {
+	margin-right: 15px;
+	float: right;
+	border: 0px;
+}
+#masthead a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Styles for Navigation */
+#navigation ul {
+	list-style-type: none;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+#navigation li {
+    border-left: 1px #000 solid;
+	float: left;
+}
+/* Navigation Menu Padding Height and Width Adjustment */
+#navigation a {
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	padding: 5px 9px;
+}
+#navigation a:hover {
+	color: #000;
+	background-color: #a9a9a9;
+}
+
+/* Styles for Content */
+#content img {
+	margin: 8px 8px 8px 0px;
+	border-radius: 13px;
+}
+
+/* Position Underneath Image */
+.under-img {clear: left;}
+
+/* Position Text down side of Image */
+.down-30px {padding-top: 30px;}
+
+.down-60px {padding-top: 60px;}
+
+.down-70px {padding-top: 70px;}
+
+.down-100px {padding-top: 100px;}
+
+/* Indents */
+.indent-1 {padding-left: 1.2em;}
+
+.indent-2 {padding-left: 1.7em;}
+
+.hang-indent-1 {padding-left: 1.2em; text-indent:-1.2em;}
+
+.hang-indent-2 {padding-left: 1.7em; text-indent:-1.7em;}
+
+/* Heading for top of page */
+#content h1 {
+	font-size: 24px;
+	font-weight: bold;
+	border-bottom-style: solid;
+	border-width: 1px;
+}
+/* Heading for each section of page */
+#content h2 {
+	font-size: 18px;
+	font-weight: bold;
+	border-bottom-style: solid;
+	border-width: 1px;
+}
+
+/* Styles for Footer */
+#footer p {
+	color: #fff;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 12px;
+	margin: 0px;
+	padding: 2px;
+	line-height: 14px;
+}
+#footer a {
+	color: #fff;
+	text-decoration: none;
+}
+#footer a:hover {text-decoration: underline;}
+
+/* Styles for Links */
+a {
+	color: #0000ee;
+	text-decoration: none;
+}
+
+a:visited {color: #660099;}
+
+a:hover {text-decoration: underline;}
+
+a:focus {outline: 0;}
+
+/* Back to Links for pages not on the Navigation Menu */
+a.back {
+	color: #fff;
+	background-color: #545454;
+	padding: 5px 12px;
+	text-decoration: none;
+	border-radius: 13px;
+}
+
+a.back:hover {
+	color: #000;
+	background-color: #a9a9a9;
+}
+
+/* Box */
+.box-main {
+	width: 400px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 13px;
+	box-shadow: 10px 10px 5px #888888;
+}
+.box-head {
+	padding-top: 0.6em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-width: 0px 0px 1px 0px;
+	border-radius: 13px 13px 0px 0px;
+}
+.box-head p {
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0;
+}
+.box-main p {padding-left: 15px;}
+
+/* Page Contents Box Color
+   and 2nd website home page Box Color */
+.box-head-color-1 {background-color: #ddcef2;}
+.box-main-color-1 {background-color: #f8f8f8;}
+
+/* 2nd Box on a page Color */
+.box-head-color-2 {background-color: #cef2e0;}
+.box-main-color-2 {background-color: #f5fffa;}
+
+/* 3rd Box on a page Color
+   or Boxes in Links Page
+   and 1st website Tyres page 2nd Box */
+.box-head-color-3 {background-color: #cedff2;}
+.box-main-color-3 {background-color: #f5faff;}
