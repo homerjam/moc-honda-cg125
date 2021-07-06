@@ -1,6 +1,8 @@
 <script>
-  window.location.href = [window.location.href, "honda-cg125"]
-    .join("/")
-    .replace("//", "");
+  window.location.href = [
+    window.location.href,
+    window.location.href[window.location.href.length - 1] === "/" ? "" : "/",
+    "honda-cg125",
+  ].join("");
   window.reload();
 </script>
